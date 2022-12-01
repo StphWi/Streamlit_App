@@ -1,7 +1,7 @@
 pandas
 numpy
 sklearn
-google.colab
+google
 json
 datetime
 gensim
