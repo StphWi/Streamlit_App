@@ -1,0 +1,15 @@
+pandas
+numpy
+sklearn
+google.colab
+json
+datetime
+gensim
+seaborn
+matplotlib
+re
+nltk
+pprint
+pyLDAvis
+time
+streamlit
